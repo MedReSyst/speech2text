@@ -1,2 +1,3 @@
 # speech2text
-A repository with functions to facilate the transcription of dialogs
+
+A collection of functions designed to simplify the transcription process of conversations.
