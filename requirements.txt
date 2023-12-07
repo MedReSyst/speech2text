@@ -1,0 +1,6 @@
+torch
+librosa
+soundfile
+tqdm
+simple_diarizer
+transformers
